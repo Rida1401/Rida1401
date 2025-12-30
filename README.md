@@ -61,7 +61,7 @@ I am a **Computer Science Engineering graduate** (Class of 2023) from **Vasavi C
   <a href="https://www.linkedin.com/in/rida-n-87311a367">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rida1401.github.io/portfolio/">
+  <a href="https://rida1401.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
