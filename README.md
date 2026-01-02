@@ -42,7 +42,7 @@ I am a **Computer Science Engineering graduate** (Class of 2023) from **Vasavi C
 
 ## 🚀 Featured Projects
 
-### 🔹 NebulaVault
+### 🔹 [NebulaVault](https://github.com/Rida1401/nebula-vault)
 A secure cloud storage platform focused on file management, access control, and data security using cloud infrastructure concepts.  
 **Tech Stack:** AWS S3, EC2, IAM, Python (Flask), MySQL
 
@@ -60,15 +60,15 @@ An AI-powered attendance system that uses facial recognition to automate attenda
 
 ---
 
-### 🔹 Medical Laser Biz
-A professional, responsive business website developed with modern frontend tooling and reusable UI components.  
-**Tech Stack:** React, Vite, Tailwind CSS
+### 🔹 [Portfolio]([https://github.com/Rida1401/](https://github.com/Rida1401/Portfolio))
+A personal portfolio application showcasing projects and technical skills with a focus on clean frontend architecture.  
+**Tech Stack:** HTML, CSS, JavaScript, React, Vite
 
 ---
 
-### 🔹 Portfolio
-A personal portfolio application showcasing projects and technical skills with a focus on clean frontend architecture.  
-**Tech Stack:** HTML, CSS, JavaScript, React, Vite
+### 🔹 [Medical Laser Biz](https://github.com/Rida1401/ami-aesthetic-website)
+A professional, responsive business website developed with modern frontend tooling and reusable UI components.  
+**Tech Stack:** React, Vite, Tailwind CSS
 
 
 ---
