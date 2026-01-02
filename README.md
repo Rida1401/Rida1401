@@ -48,12 +48,6 @@ A secure cloud storage platform focused on file management, access control, and 
 
 ---
 
-### 🔹 CloudHelpDesk
-A support ticketing system modeled on real IT service workflows for issue tracking, prioritization, and resolution management.  
-**Tech Stack:** React, Vite, Tailwind CSS, Python (Flask), AWS
-
----
-
 ### 🔹 [VisionMark AI](https://github.com/Rida1401/VisionMark-AI)
 An AI-powered attendance system that uses facial recognition to automate attendance marking and reduce manual intervention.  
 **Tech Stack:** Python, OpenCV, TensorFlow, SQLite
