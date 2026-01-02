@@ -42,13 +42,34 @@ I am a **Computer Science Engineering graduate** (Class of 2023) from **Vasavi C
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **NebulaVault** | A secure cloud storage platform for file management, access control, and data security. | AWS S3, EC2, IAM, Python (Flask), MySQL |
-| **CloudHelpDesk** | A support ticketing system inspired by real IT workflows for managing issues and resolutions. | React, Vite, Tailwind, Python (Flask), AWS |
-| **VisionMark AI** | AI-powered attendance system using facial recognition to automate attendance marking. | Python, OpenCV, TensorFlow, SQLite |
-| **Medical Laser Biz** | A professional business website for a medical equipment company with responsive design. | React, Vite, Tailwind CSS |
-| **Portfolio** | My personal portfolio showcasing projects and skills with high availability deployment. | React, Next.js, AWS S3, CloudFront |
+### 🔹 NebulaVault
+A secure cloud storage platform focused on file management, access control, and data security using cloud infrastructure concepts.  
+**Tech Stack:** AWS S3, EC2, IAM, Python (Flask), MySQL
+
+---
+
+### 🔹 CloudHelpDesk
+A support ticketing system modeled on real IT service workflows for issue tracking, prioritization, and resolution management.  
+**Tech Stack:** React, Vite, Tailwind CSS, Python (Flask), AWS
+
+---
+
+### 🔹 VisionMark AI
+An AI-powered attendance system that uses facial recognition to automate attendance marking and reduce manual intervention.  
+**Tech Stack:** Python, OpenCV, TensorFlow, SQLite
+
+---
+
+### 🔹 Medical Laser Biz
+A professional, responsive business website developed with modern frontend tooling and reusable UI components.  
+**Tech Stack:** React, Vite, Tailwind CSS
+
+---
+
+### 🔹 Portfolio
+A personal portfolio application showcasing projects and technical skills with a focus on clean frontend architecture.  
+**Tech Stack:** HTML, CSS, JavaScript, React, Vite
+
 
 ---
 
